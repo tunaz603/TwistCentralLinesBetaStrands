@@ -1,0 +1,37 @@
+number of beta sheet 2
+
+beta strand 1['SHEET ', '  1', '  A', ' 3', 'GLN', 'A', '  48 ', 'ALA', 'A', '  51', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  A', ' 3', 'VAL', 'A', '  39 ', 'THR', 'A', '  43', ' ', '-1', ' N  ', 'PHE', 'A', '  41 ', ' O  ', 'VAL', 'A', '  49', ' ']
+Twist angle:: 29.972
+Twist angle:: 30.634
+smallest angles :: 29.972
+avg_twist_angle between strands  30.303
+................................................
+beta strand 1['SHEET ', '  2', '  A', ' 3', 'VAL', 'A', '  39 ', 'THR', 'A', '  43', ' ', '-1', ' N  ', 'PHE', 'A', '  41 ', ' O  ', 'VAL', 'A', '  49', ' ']
+beta strand 2['SHEET ', '  3', '  A', ' 3', 'ILE', 'A', '  24 ', 'TYR', 'A', '  29', ' ', '-1', ' N  ', 'PHE', 'A', '  28 ', ' O  ', 'VAL', 'A', '  40', ' ']
+Twist angle:: 16.317
+Twist angle:: 16.792
+Twist angle:: 17.915
+smallest angles :: 16.317
+avg_twist_angle between strands  17.008
+................................................
+beta strand 1['SHEET ', '  1', '  B', ' 3', 'GLN', 'B', '  48 ', 'ALA', 'B', '  51', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  B', ' 3', 'VAL', 'B', '  39 ', 'THR', 'B', '  43', ' ', '-1', ' N  ', 'PHE', 'B', '  41 ', ' O  ', 'VAL', 'B', '  49', ' ']
+Twist angle:: 37.152
+Twist angle:: 36.355
+smallest angles :: 36.355
+avg_twist_angle between strands  36.754
+................................................
+beta strand 1['SHEET ', '  2', '  B', ' 3', 'VAL', 'B', '  39 ', 'THR', 'B', '  43', ' ', '-1', ' N  ', 'PHE', 'B', '  41 ', ' O  ', 'VAL', 'B', '  49', ' ']
+beta strand 2['SHEET ', '  3', '  B', ' 3', 'ILE', 'B', '  24 ', 'TYR', 'B', '  29', ' ', '-1', ' N  ', 'PHE', 'B', '  28 ', ' O  ', 'VAL', 'B', '  40', ' ']
+Twist angle:: 19.063
+Twist angle:: 19.259
+Twist angle:: 19.947
+smallest angles :: 19.063
+avg_twist_angle between strands  19.423
+................................................
+
+
+avg_twist angle in all beta sheets 23.655
+avg_twist angle in all beta sheets 28.088
+................................................

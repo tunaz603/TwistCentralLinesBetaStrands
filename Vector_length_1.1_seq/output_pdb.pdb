@@ -1,0 +1,404 @@
+ATOM      1    S LEU A  81       5.218   6.214  18.505
+ATOM      2    S LEU A  81       3.587   8.476  16.777
+('vector length ', 3.2807652308569724)
+ATOM      3    S LEU A  81      18.784   2.071   28.05
+ATOM      4    S LEU A  81      17.895   2.492  27.348
+ATOM      5    S LEU A  81      17.032   2.925  26.629
+ATOM      6    S LEU A  81      16.194    3.37  25.894
+ATOM      7    S LEU A  81      15.382   3.828  25.143
+ATOM      8    S LEU A  81      14.596   4.298  24.375
+ATOM      9    S LEU A  81      13.836    4.78  23.591
+ATOM     10    S LEU A  81      13.101   5.274  22.791
+ATOM     11    S LEU A  81      12.392   5.781  21.975
+ATOM     12    S LEU A  81      11.709   6.299  21.142
+ATOM     13    S LEU A  81      11.052    6.83  20.293
+ATOM     14    S LEU A  81       10.42   7.373  19.428
+ATOM     15    S LEU A  81       9.815   7.928  18.546
+ATOM     16    S LEU A  81       9.234   8.495  17.648
+ATOM     17    S LEU A  81        8.68   9.075  16.734
+ATOM     18    S LEU A  81       8.152   9.667  15.803
+ATOM     19    S LEU A  81       7.649   10.27  14.856
+('vector length ', 1.2087879274427666)
+('vector length ', 1.2039974634623605)
+('vector length ', 1.2000859682946061)
+('vector length ', 1.197062058271357)
+('vector length ', 1.1949324718114964)
+('vector length ', 1.1937019953940013)
+('vector length ', 1.1933734102145674)
+('vector length ', 1.1939474608993865)
+('vector length ', 1.195422847092386)
+('vector length ', 1.1977962381366238)
+('vector length ', 1.2010623104649805)
+('vector length ', 1.2052138067273024)
+('vector length ', 1.2102416151389692)
+('vector length ', 1.2161348670619003)
+('vector length ', 1.222881050443825)
+('vector length ', 1.2304661364568006)
+ATOM     20    S LEU A  81      19.817   4.732  33.681
+ATOM     21    S LEU A  81      19.355   5.264  32.671
+ATOM     22    S LEU A  81      18.896   5.782  31.655
+ATOM     23    S LEU A  81      18.441   6.286  30.631
+ATOM     24    S LEU A  81       17.99   6.776  29.601
+ATOM     25    S LEU A  81      17.542   7.253  28.563
+ATOM     26    S LEU A  81      17.099   7.716  27.519
+ATOM     27    S LEU A  81      16.659   8.166  26.468
+ATOM     28    S LEU A  81      16.223   8.601   25.41
+ATOM     29    S LEU A  81      15.791   9.024  24.345
+ATOM     30    S LEU A  81      15.362   9.432  23.273
+ATOM     31    S LEU A  81      14.938   9.827  22.194
+ATOM     32    S LEU A  81      14.517  10.208  21.108
+ATOM     33    S LEU A  81        14.1  10.575  20.016
+ATOM     34    S LEU A  81      13.687  10.929  18.916
+ATOM     35    S LEU A  81      13.278  11.269  17.809
+ATOM     36    S LEU A  81      12.872  11.596  16.696
+('vector length ', 1.2311522445765501)
+('vector length ', 1.2296039259647435)
+('vector length ', 1.2282566522554303)
+('vector length ', 1.2271110856443879)
+('vector length ', 1.2261677914758504)
+('vector length ', 1.2254272368582289)
+('vector length ', 1.2248897895137394)
+('vector length ', 1.2245557168687093)
+('vector length ', 1.224425185389645)
+('vector length ', 1.2244982601689958)
+('vector length ', 1.2247749047629597)
+('vector length ', 1.2252549812823232)
+('vector length ', 1.2259382507357326)
+('vector length ', 1.2268243736234656)
+('vector length ', 1.227912910778303)
+('vector length ', 1.2292033244485137)
+ATOM     37    S LEU A  81        18.8   9.304  35.465
+ATOM     38    S LEU A  81      18.682   9.783   34.39
+ATOM     39    S LEU A  81      18.555  10.254  33.311
+ATOM     40    S LEU A  81      18.421  10.717  32.231
+ATOM     41    S LEU A  81      18.278  11.172  31.147
+ATOM     42    S LEU A  81      18.127  11.619  30.062
+ATOM     43    S LEU A  81      17.969  12.058  28.974
+ATOM     44    S LEU A  81      17.802  12.489  27.883
+ATOM     45    S LEU A  81      17.628  12.911   26.79
+ATOM     46    S LEU A  81      17.445  13.326  25.694
+ATOM     47    S LEU A  81      17.255  13.732  24.596
+ATOM     48    S LEU A  81      17.056   14.13  23.496
+ATOM     49    S LEU A  81       16.85  14.521  22.393
+ATOM     50    S LEU A  81      16.635  14.903  21.288
+ATOM     51    S LEU A  81      16.413  15.277   20.18
+ATOM     52    S LEU A  81      16.182  15.643   19.07
+ATOM     53    S LEU A  81      15.944  16.001  17.957
+('vector length ', 1.183699513989916)
+('vector length ', 1.1835149066929374)
+('vector length ', 1.1834447212298027)
+('vector length ', 1.1834889779575113)
+('vector length ', 1.1836476640390279)
+('vector length ', 1.1839207334619501)
+('vector length ', 1.1843081071051738)
+('vector length ', 1.1848096728533617)
+('vector length ', 1.1854252857589358)
+('vector length ', 1.1861547682508973)
+('vector length ', 1.1869979103898676)
+('vector length ', 1.1879544701685374)
+('vector length ', 1.1890241738563656)
+('vector length ', 1.1902067163875845)
+('vector length ', 1.1915017617911214)
+('vector length ', 1.1929089436610254)
+ATOM     54    S LEU A  81      17.238  13.565  37.176
+ATOM     55    S LEU A  81      17.561  14.234  36.051
+ATOM     56    S LEU A  81      17.871  14.842  34.915
+ATOM     57    S LEU A  81      18.166  15.388  33.768
+ATOM     58    S LEU A  81      18.446  15.874   32.61
+ATOM     59    S LEU A  81      18.712  16.298  31.441
+ATOM     60    S LEU A  81      18.963   16.66   30.26
+ATOM     61    S LEU A  81        19.2  16.961  29.069
+ATOM     62    S LEU A  81      19.422  17.201  27.866
+ATOM     63    S LEU A  81       19.63   17.38  26.652
+ATOM     64    S LEU A  81      19.823  17.497  25.427
+ATOM     65    S LEU A  81      20.002  17.553  24.191
+ATOM     66    S LEU A  81      20.166  17.547  22.944
+ATOM     67    S LEU A  81      20.315   17.48  21.686
+ATOM     68    S LEU A  81      20.451  17.352  20.417
+ATOM     69    S LEU A  81      20.571  17.162  19.136
+ATOM     70    S LEU A  81      20.677  16.912  17.844
+('vector length ', 1.3483582781875707)
+('vector length ', 1.3250144780730133)
+('vector length ', 1.3043968650581714)
+('vector length ', 1.2866365025788582)
+('vector length ', 1.271853093595119)
+('vector length ', 1.260151414446252)
+('vector length ', 1.2516179036345785)
+('vector length ', 1.2463176400062133)
+('vector length ', 1.2442919418717706)
+('vector length ', 1.245556785998817)
+('vector length ', 1.2501021843884135)
+('vector length ', 1.2578925746668401)
+('vector length ', 1.268868189023431)
+('vector length ', 1.2829472812838159)
+('vector length ', 1.300029024951276)
+('vector length ', 1.3199968555274395)
+ATOM     71    S LEU A  81      25.392  17.423  19.246
+ATOM     72    S LEU A  81      25.333  17.973   20.19
+ATOM     73    S LEU A  81       25.19  18.511  21.104
+ATOM     74    S LEU A  81      24.965  19.037  21.987
+ATOM     75    S LEU A  81      24.656  19.551  22.841
+ATOM     76    S LEU A  81      24.264  20.052  23.664
+ATOM     77    S LEU A  81      23.789  20.541  24.457
+ATOM     78    S LEU A  81      23.231  21.017   25.22
+ATOM     79    S LEU A  81       22.59  21.481  25.953
+ATOM     80    S LEU A  81      21.866  21.933  26.656
+('vector length ', 1.0943224373976381)
+('vector length ', 1.0699893245174026)
+('vector length ', 1.052681298231527)
+('vector length ', 1.0427482343248224)
+('vector length ', 1.0404013880251166)
+('vector length ', 1.0456918378267874)
+('vector length ', 1.0585050754089298)
+('vector length ', 1.0785730263228783)
+('vector length ', 1.1055006807017433)
+ATOM     81    S LEU A  81      23.261  42.392  48.752
+ATOM     82    S LEU A  81      21.696  40.078  50.495
+('vector length ', 3.2919968104480315)
+ATOM     83    S LEU A  81       36.46  47.175  38.912
+ATOM     84    S LEU A  81      35.594  46.686  39.607
+ATOM     85    S LEU A  81      34.756   46.19   40.32
+ATOM     86    S LEU A  81      33.945  45.685  41.051
+ATOM     87    S LEU A  81      33.161  45.171    41.8
+ATOM     88    S LEU A  81      32.404   44.65  42.566
+ATOM     89    S LEU A  81      31.675   44.12   43.35
+ATOM     90    S LEU A  81      30.973  43.582  44.151
+ATOM     91    S LEU A  81      30.299  43.036   44.97
+ATOM     92    S LEU A  81      29.651  42.481  45.807
+ATOM     93    S LEU A  81      29.031  41.918  46.661
+ATOM     94    S LEU A  81      28.438  41.347  47.533
+ATOM     95    S LEU A  81      27.873  40.767  48.423
+ATOM     96    S LEU A  81      27.335  40.179   49.33
+ATOM     97    S LEU A  81      26.824  39.583  50.255
+ATOM     98    S LEU A  81       26.34  38.978  51.198
+ATOM     99    S LEU A  81      25.884  38.366  52.158
+('vector length ', 1.213134393532071)
+('vector length ', 1.2075649547269542)
+('vector length ', 1.2029058353379383)
+('vector length ', 1.1991676459888363)
+('vector length ', 1.1963590194309326)
+('vector length ', 1.1944865127962372)
+('vector length ', 1.193554531984815)
+('vector length ', 1.1935652801928696)
+('vector length ', 1.1945187319725292)
+('vector length ', 1.196412633532296)
+('vector length ', 1.199242529269669)
+('vector length ', 1.2030018138114196)
+('vector length ', 1.2076818081551917)
+('vector length ', 1.2132718578931325)
+('vector length ', 1.2197594509791354)
+('vector length ', 1.2271303520985064)
+ATOM    100    S LEU A  81       37.65  44.523  33.207
+ATOM    101    S LEU A  81      37.196  43.975  34.215
+ATOM    102    S LEU A  81      36.749  43.438   35.23
+ATOM    103    S LEU A  81      36.308  42.913  36.252
+ATOM    104    S LEU A  81      35.874    42.4  37.282
+ATOM    105    S LEU A  81      35.446  41.898   38.32
+ATOM    106    S LEU A  81      35.025  41.408  39.365
+ATOM    107    S LEU A  81      34.611   40.93  40.418
+ATOM    108    S LEU A  81      34.202  40.463  41.478
+ATOM    109    S LEU A  81      33.801  40.008  42.545
+ATOM    110    S LEU A  81      33.406  39.565  43.621
+ATOM    111    S LEU A  81      33.017  39.133  44.704
+ATOM    112    S LEU A  81      32.635  38.714  45.794
+ATOM    113    S LEU A  81       32.26  38.305  46.892
+ATOM    114    S LEU A  81      31.891  37.909  47.997
+ATOM    115    S LEU A  81      31.529  37.524   49.11
+ATOM    116    S LEU A  81      31.173  37.151  50.231
+('vector length ', 1.2334863293049998)
+('vector length ', 1.232149437098997)
+('vector length ', 1.2310025882932414)
+('vector length ', 1.2300463144557408)
+('vector length ', 1.2292810603389113)
+('vector length ', 1.2287071828511167)
+('vector length ', 1.2283249502278182)
+('vector length ', 1.2281345414060503)
+('vector length ', 1.2281360456062607)
+('vector length ', 1.2283294621233818)
+('vector length ', 1.2287147003285794)
+('vector length ', 1.2292915798812614)
+('vector length ', 1.2300598311507636)
+('vector length ', 1.2310190958448153)
+('vector length ', 1.2321689278417665)
+('vector length ', 1.233508794222046)
+ATOM    117    S LEU A  81      36.723  39.919  31.425
+ATOM    118    S LEU A  81      36.643  39.438  32.498
+ATOM    119    S LEU A  81      36.554  38.963  33.573
+ATOM    120    S LEU A  81      36.456  38.493  34.649
+ATOM    121    S LEU A  81      36.348  38.029  35.727
+ATOM    122    S LEU A  81      36.231   37.57  36.808
+ATOM    123    S LEU A  81      36.105  37.117  37.889
+ATOM    124    S LEU A  81       35.97  36.669  38.973
+ATOM    125    S LEU A  81      35.825  36.227  40.058
+ATOM    126    S LEU A  81      35.672   35.79  41.146
+ATOM    127    S LEU A  81      35.509  35.359  42.235
+ATOM    128    S LEU A  81      35.337  34.933  43.325
+ATOM    129    S LEU A  81      35.155  34.513  44.418
+ATOM    130    S LEU A  81      34.965  34.099  45.512
+ATOM    131    S LEU A  81      34.765   33.69  46.608
+ATOM    132    S LEU A  81      34.556  33.286  47.706
+ATOM    133    S LEU A  81      34.338  32.888  48.806
+('vector length ', 1.1784908703428565)
+('vector length ', 1.1785317248475389)
+('vector length ', 1.178673093417894)
+('vector length ', 1.1789149398947303)
+('vector length ', 1.1792572024589043)
+('vector length ', 1.1796997937102183)
+('vector length ', 1.1802426007788351)
+('vector length ', 1.1808854854688275)
+('vector length ', 1.18162828443349)
+('vector length ', 1.182470809381798)
+('vector length ', 1.1834128473154912)
+('vector length ', 1.1844541607960999)
+('vector length ', 1.1855944882410452)
+('vector length ', 1.1868335442480633)
+('vector length ', 1.1881710199469744)
+('vector length ', 1.1896065833777671)
+ATOM    134    S LEU A  81      35.269  35.565  29.781
+ATOM    135    S LEU A  81      35.689  34.931  30.878
+ATOM    136    S LEU A  81      36.086  34.354  31.986
+ATOM    137    S LEU A  81      36.459  33.834  33.108
+ATOM    138    S LEU A  81      36.808   33.37  34.242
+ATOM    139    S LEU A  81      37.132  32.963  35.388
+ATOM    140    S LEU A  81      37.433  32.612  36.548
+ATOM    141    S LEU A  81      37.709  32.319  37.719
+ATOM    142    S LEU A  81      37.962  32.082  38.904
+ATOM    143    S LEU A  81      38.191  31.902  40.101
+ATOM    144    S LEU A  81      38.395  31.778   41.31
+ATOM    145    S LEU A  81      38.576  31.711  42.533
+ATOM    146    S LEU A  81      38.732  31.701  43.767
+ATOM    147    S LEU A  81      38.864  31.748  45.015
+ATOM    148    S LEU A  81      38.973  31.851  46.275
+ATOM    149    S LEU A  81      39.057  32.011  47.547
+ATOM    150    S LEU A  81      39.117  32.228  48.832
+('vector length ', 1.3343974628440172)
+('vector length ', 1.3115124402341571)
+('vector length ', 1.2912852004118902)
+('vector length ', 1.2738423578238072)
+('vector length ', 1.2592996197247508)
+('vector length ', 1.2477583931840317)
+('vector length ', 1.2393025373785627)
+('vector length ', 1.2339954807106)
+('vector length ', 1.231877919903137)
+('vector length ', 1.2329662884868609)
+('vector length ', 1.2372521260497973)
+('vector length ', 1.244702403851567)
+('vector length ', 1.2552607779909652)
+('vector length ', 1.2688496614022395)
+('vector length ', 1.285372942607766)
+('vector length ', 1.3047191405835945)
+ATOM    151    S LEU A  81      43.818  32.005  47.487
+ATOM    152    S LEU A  81      43.785  31.539  46.537
+ATOM    153    S LEU A  81      43.676  31.064  45.617
+ATOM    154    S LEU A  81      43.493  30.582  44.727
+ATOM    155    S LEU A  81      43.235  30.092  43.867
+ATOM    156    S LEU A  81      42.902  29.594  43.038
+ATOM    157    S LEU A  81      42.494  29.089  42.239
+ATOM    158    S LEU A  81      42.011  28.576   41.47
+ATOM    159    S LEU A  81      41.454  28.055  40.731
+ATOM    160    S LEU A  81      40.822  27.526  40.023
+('vector length ', 1.0593938942600138)
+('vector length ', 1.040981154638404)
+('vector length ', 1.028644831692935)
+('vector length ', 1.0226048599357775)
+('vector length ', 1.0229727727067364)
+('vector length ', 1.029741701677534)
+('vector length ', 1.0427870036529754)
+('vector length ', 1.061877385643344)
+('vector length ', 1.0866943055125076)
+
+
+(' MIN_INDEX_Forward', 14)
+(' MIN_INDEX_Backword', 0)
+(' MIN_INDEX_Forward', 3)
+(' MIN_INDEX_Backword', 0)
+3   16   0
+3   16   0
+3   16   0
+3   16   0
+3   16   0
+(' MIN_INDEX_Forward', 0)
+(' MIN_INDEX_Backword', 0)
+0   16   0
+k  1
+pick_index 1
+0   16   0
+k  2
+pick_index 2
+0   16   0
+k  3
+pick_index 3
+0   16   0
+k  4
+pick_index 4
+0   16   0
+k  5
+pick_index 5
+(' MIN_INDEX_Forward', 0)
+(' MIN_INDEX_Backword', 0)
+0   16   0
+k  1
+pick_index 1
+0   16   0
+k  2
+pick_index 2
+0   16   0
+k  3
+pick_index 3
+0   16   0
+k  4
+pick_index 4
+0   16   0
+k  5
+pick_index 5
+(' MIN_INDEX_Forward', 14)
+(' MIN_INDEX_Backword', 2)
+14   16   2
+14   16   2
+(' MIN_INDEX_Forward', 14)
+(' MIN_INDEX_Backword', 0)
+(' MIN_INDEX_Forward', 3)
+(' MIN_INDEX_Backword', 0)
+3   16   0
+3   16   0
+3   16   0
+3   16   0
+3   16   0
+(' MIN_INDEX_Forward', 0)
+(' MIN_INDEX_Backword', 0)
+0   16   0
+k  1
+pick_index 1
+0   16   0
+k  2
+pick_index 2
+0   16   0
+k  3
+pick_index 3
+0   16   0
+k  4
+pick_index 4
+0   16   0
+k  5
+pick_index 5
+(' MIN_INDEX_Forward', 0)
+(' MIN_INDEX_Backword', 0)
+0   16   0
+k  1
+pick_index 1
+0   16   0
+k  2
+pick_index 2
+0   16   0
+k  3
+pick_index 3
+0   16   0
+k  4
+pick_index 4
+0   16   0
+k  5
+pick_index 5
+(' MIN_INDEX_Forward', 14)
+(' MIN_INDEX_Backword', 2)
+14   16   2
+14   16   2
