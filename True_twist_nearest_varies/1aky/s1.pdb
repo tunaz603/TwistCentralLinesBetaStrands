@@ -1,0 +1,729 @@
+ATOM      1  S   LEU A  81       0.061  24.121   1.583  0.00  0.00           S
+ATOM      2  S   LEU A  81       0.018  24.060   1.691  0.00  0.00           S
+ATOM      3  S   LEU A  81      -0.025  23.998   1.799  0.00  0.00           S
+ATOM      4  S   LEU A  81      -0.066  23.936   1.906  0.00  0.00           S
+ATOM      5  S   LEU A  81      -0.107  23.875   2.014  0.00  0.00           S
+ATOM      6  S   LEU A  81      -0.147  23.813   2.123  0.00  0.00           S
+ATOM      7  S   LEU A  81      -0.187  23.751   2.231  0.00  0.00           S
+ATOM      8  S   LEU A  81      -0.226  23.690   2.339  0.00  0.00           S
+ATOM      9  S   LEU A  81      -0.265  23.628   2.448  0.00  0.00           S
+ATOM     10  S   LEU A  81      -0.302  23.566   2.556  0.00  0.00           S
+ATOM     11  S   LEU A  81      -0.340  23.505   2.665  0.00  0.00           S
+ATOM     12  S   LEU A  81      -0.376  23.443   2.774  0.00  0.00           S
+ATOM     13  S   LEU A  81      -0.412  23.381   2.883  0.00  0.00           S
+ATOM     14  S   LEU A  81      -0.447  23.319   2.992  0.00  0.00           S
+ATOM     15  S   LEU A  81      -0.482  23.258   3.101  0.00  0.00           S
+ATOM     16  S   LEU A  81      -0.516  23.196   3.211  0.00  0.00           S
+ATOM     17  S   LEU A  81      -0.549  23.134   3.320  0.00  0.00           S
+ATOM     18  S   LEU A  81      -0.582  23.072   3.430  0.00  0.00           S
+ATOM     19  S   LEU A  81      -0.614  23.011   3.540  0.00  0.00           S
+ATOM     20  S   LEU A  81      -0.645  22.949   3.650  0.00  0.00           S
+ATOM     21  S   LEU A  81      -0.676  22.887   3.760  0.00  0.00           S
+ATOM     22  S   LEU A  81      -0.706  22.825   3.870  0.00  0.00           S
+ATOM     23  S   LEU A  81      -0.735  22.763   3.980  0.00  0.00           S
+ATOM     24  S   LEU A  81      -0.764  22.701   4.091  0.00  0.00           S
+ATOM     25  S   LEU A  81      -0.792  22.640   4.201  0.00  0.00           S
+ATOM     26  S   LEU A  81      -0.820  22.578   4.312  0.00  0.00           S
+ATOM     27  S   LEU A  81      -0.847  22.516   4.423  0.00  0.00           S
+ATOM     28  S   LEU A  81      -0.873  22.454   4.534  0.00  0.00           S
+ATOM     29  S   LEU A  81      -0.899  22.392   4.645  0.00  0.00           S
+ATOM     30  S   LEU A  81      -0.924  22.330   4.756  0.00  0.00           S
+ATOM     31  S   LEU A  81      -0.948  22.268   4.867  0.00  0.00           S
+ATOM     32  S   LEU A  81      -0.972  22.206   4.978  0.00  0.00           S
+ATOM     33  S   LEU A  81      -0.995  22.144   5.090  0.00  0.00           S
+ATOM     34  S   LEU A  81      -1.017  22.082   5.202  0.00  0.00           S
+ATOM     35  S   LEU A  81      -1.039  22.020   5.314  0.00  0.00           S
+ATOM     36  S   LEU A  81      -1.060  21.958   5.425  0.00  0.00           S
+ATOM     37  S   LEU A  81      -1.081  21.896   5.538  0.00  0.00           S
+ATOM     38  S   LEU A  81      -1.101  21.834   5.650  0.00  0.00           S
+ATOM     39  S   LEU A  81      -1.120  21.772   5.762  0.00  0.00           S
+ATOM     40  S   LEU A  81      -1.139  21.710   5.875  0.00  0.00           S
+ATOM     41  S   LEU A  81      -1.157  21.648   5.987  0.00  0.00           S
+ATOM     42  S   LEU A  81      -1.174  21.586   6.100  0.00  0.00           S
+ATOM     43  S   LEU A  81      -1.191  21.524   6.213  0.00  0.00           S
+ATOM     44  S   LEU A  81      -1.207  21.462   6.326  0.00  0.00           S
+ATOM     45  S   LEU A  81      -1.222  21.400   6.439  0.00  0.00           S
+ATOM     46  S   LEU A  81      -1.237  21.338   6.552  0.00  0.00           S
+ATOM     47  S   LEU A  81      -1.251  21.276   6.665  0.00  0.00           S
+ATOM     48  S   LEU A  81      -1.264  21.214   6.779  0.00  0.00           S
+ATOM     49  S   LEU A  81      -1.277  21.152   6.892  0.00  0.00           S
+ATOM     50  S   LEU A  81      -1.289  21.090   7.006  0.00  0.00           S
+ATOM     51  S   LEU A  81      -1.301  21.027   7.120  0.00  0.00           S
+ATOM     52  S   LEU A  81      -1.312  20.965   7.234  0.00  0.00           S
+ATOM     53  S   LEU A  81      -1.322  20.903   7.348  0.00  0.00           S
+ATOM     54  S   LEU A  81      -1.332  20.841   7.462  0.00  0.00           S
+ATOM     55  S   LEU A  81      -1.341  20.779   7.576  0.00  0.00           S
+ATOM     56  S   LEU A  81      -1.349  20.717   7.691  0.00  0.00           S
+ATOM     57  S   LEU A  81      -1.357  20.654   7.806  0.00  0.00           S
+ATOM     58  S   LEU A  81      -1.364  20.592   7.920  0.00  0.00           S
+ATOM     59  S   LEU A  81      -1.370  20.530   8.035  0.00  0.00           S
+ATOM     60  S   LEU A  81      -1.376  20.468   8.150  0.00  0.00           S
+ATOM     61  S   LEU A  81      -1.381  20.406   8.265  0.00  0.00           S
+ATOM     62  S   LEU A  81      -1.386  20.343   8.381  0.00  0.00           S
+ATOM     63  S   LEU A  81      -1.390  20.281   8.496  0.00  0.00           S
+ATOM     64  S   LEU A  81      -1.393  20.219   8.611  0.00  0.00           S
+ATOM     65  S   LEU A  81      -1.396  20.156   8.727  0.00  0.00           S
+ATOM     66  S   LEU A  81      -1.398  20.094   8.843  0.00  0.00           S
+ATOM     67  S   LEU A  81      -1.399  20.032   8.959  0.00  0.00           S
+ATOM     68  S   LEU A  81      -1.400  19.970   9.075  0.00  0.00           S
+ATOM     69  S   LEU A  81      -1.400  19.907   9.191  0.00  0.00           S
+ATOM     70  S   LEU A  81      -1.399  19.845   9.307  0.00  0.00           S
+ATOM     71  S   LEU A  81      -1.398  19.783   9.423  0.00  0.00           S
+ATOM     72  S   LEU A  81      -1.396  19.720   9.540  0.00  0.00           S
+ATOM     73  S   LEU A  81      -1.393  19.658   9.657  0.00  0.00           S
+ATOM     74  S   LEU A  81      -1.390  19.595   9.773  0.00  0.00           S
+ATOM     75  S   LEU A  81      -1.387  19.533   9.890  0.00  0.00           S
+ATOM     76  S   LEU A  81      -1.382  19.471  10.007  0.00  0.00           S
+ATOM     77  S   LEU A  81      -1.377  19.408  10.124  0.00  0.00           S
+ATOM     78  S   LEU A  81      -1.371  19.346  10.242  0.00  0.00           S
+ATOM     79  S   LEU A  81      -1.365  19.283  10.359  0.00  0.00           S
+ATOM     80  S   LEU A  81      -1.358  19.221  10.477  0.00  0.00           S
+CONECT    1    6    3    5    2
+CONECT    1    7    8    9    4
+CONECT    1   10   11   12   13
+CONECT    1   14   15   16   17
+CONECT    1   18   19
+CONECT    2    6    3    5    1
+CONECT    2    7    8    9    4
+CONECT    2   10   11   12   13
+CONECT    2   14   15   16   17
+CONECT    2   18   19   20
+CONECT    3    6    5    1    2
+CONECT    3    7    8    9    4
+CONECT    3   10   11   12   13
+CONECT    3   14   15   16   17
+CONECT    3   18   19   20   21
+CONECT    4    6    3    5    1
+CONECT    4    2    7    8    9
+CONECT    4   10   11   12   13
+CONECT    4   14   15   16   17
+CONECT    4   18   19   20   21
+CONECT    4   22
+CONECT    5    6    3    1    2
+CONECT    5    7    8    9    4
+CONECT    5   10   11   12   13
+CONECT    5   14   15   16   17
+CONECT    5   18   19   20   21
+CONECT    5   22   23
+CONECT    6    3    5    1    2
+CONECT    6    7    8    9    4
+CONECT    6   10   11   12   13
+CONECT    6   14   15   16   17
+CONECT    6   18   19   20   21
+CONECT    6   22   23   24
+CONECT    7    6    3    5    1
+CONECT    7    2    8    9    4
+CONECT    7   10   11   12   13
+CONECT    7   14   15   16   17
+CONECT    7   18   19   20   21
+CONECT    7   22   23   24   25
+CONECT    8    6    3    5    1
+CONECT    8    2    7    9    4
+CONECT    8   26   10   11   12
+CONECT    8   13   14   15   16
+CONECT    8   17   18   19   20
+CONECT    8   21   22   23   24
+CONECT    8   25
+CONECT    9    6    3    5    1
+CONECT    9    2    7    8    4
+CONECT    9   26   27   10   11
+CONECT    9   12   13   14   15
+CONECT    9   16   17   18   19
+CONECT    9   20   21   22   23
+CONECT    9   24   25
+CONECT   10    6    3    5    1
+CONECT   10    2    7    8    9
+CONECT   10    4   26   27   28
+CONECT   10   11   12   13   14
+CONECT   10   15   16   17   18
+CONECT   10   19   20   21   22
+CONECT   10   23   24   25
+CONECT   11    6    3    5    1
+CONECT   11    2    7    8    9
+CONECT   11    4   26   27   28
+CONECT   11   29   10   12   13
+CONECT   11   14   15   16   17
+CONECT   11   18   19   20   21
+CONECT   11   22   23   24   25
+CONECT   12    6    3    5    1
+CONECT   12    2    7    8    9
+CONECT   12    4   26   27   28
+CONECT   12   29   30   10   11
+CONECT   12   13   14   15   16
+CONECT   12   17   18   19   20
+CONECT   12   21   22   23   24
+CONECT   12   25
+CONECT   13    6    3    5    1
+CONECT   13    2    7    8    9
+CONECT   13    4   26   27   28
+CONECT   13   29   30   31   10
+CONECT   13   11   12   14   15
+CONECT   13   16   17   18   19
+CONECT   13   20   21   22   23
+CONECT   13   24   25
+CONECT   14    6    3    5    1
+CONECT   14    2    7    8    9
+CONECT   14    4   26   27   28
+CONECT   14   29   30   31   32
+CONECT   14   10   11   12   13
+CONECT   14   15   16   17   18
+CONECT   14   19   20   21   22
+CONECT   14   23   24   25
+CONECT   15    6    3    5    1
+CONECT   15    2    7    8    9
+CONECT   15    4   26   27   28
+CONECT   15   29   30   31   32
+CONECT   15   33   10   11   12
+CONECT   15   13   14   16   17
+CONECT   15   18   19   20   21
+CONECT   15   22   23   24   25
+CONECT   16    6    3    5    1
+CONECT   16    2    7    8    9
+CONECT   16    4   26   27   28
+CONECT   16   29   30   31   32
+CONECT   16   33   34   10   11
+CONECT   16   12   13   14   15
+CONECT   16   17   18   19   20
+CONECT   16   21   22   23   24
+CONECT   16   25
+CONECT   17    6    3    5    1
+CONECT   17    2    7    8    9
+CONECT   17    4   26   27   28
+CONECT   17   29   30   31   32
+CONECT   17   33   34   35   10
+CONECT   17   11   12   13   14
+CONECT   17   15   16   18   19
+CONECT   17   20   21   22   23
+CONECT   17   24   25
+CONECT   18    6    3    5    1
+CONECT   18    2    7    8    9
+CONECT   18    4   26   27   28
+CONECT   18   29   30   31   32
+CONECT   18   33   34   35   36
+CONECT   18   10   11   12   13
+CONECT   18   14   15   16   17
+CONECT   18   19   20   21   22
+CONECT   18   23   24   25
+CONECT   19    6    3    5    1
+CONECT   19    2    7    8    9
+CONECT   19    4   26   27   28
+CONECT   19   29   30   31   32
+CONECT   19   33   34   35   36
+CONECT   19   37   10   11   12
+CONECT   19   13   14   15   16
+CONECT   19   17   18   20   21
+CONECT   19   22   23   24   25
+CONECT   20    6    3    5    2
+CONECT   20    7    8    9    4
+CONECT   20   26   27   28   29
+CONECT   20   30   31   32   33
+CONECT   20   34   35   36   37
+CONECT   20   38   10   11   12
+CONECT   20   13   14   15   16
+CONECT   20   17   18   19   21
+CONECT   20   22   23   24   25
+CONECT   21    6    3    5    7
+CONECT   21    8    9    4   26
+CONECT   21   27   28   29   30
+CONECT   21   31   32   33   34
+CONECT   21   35   36   37   38
+CONECT   21   39   10   11   12
+CONECT   21   13   14   15   16
+CONECT   21   17   18   19   20
+CONECT   21   22   23   24   25
+CONECT   22    6    5    7    8
+CONECT   22    9    4   26   27
+CONECT   22   28   29   30   31
+CONECT   22   32   33   34   35
+CONECT   22   36   37   38   39
+CONECT   22   40   10   11   12
+CONECT   22   13   14   15   16
+CONECT   22   17   18   19   20
+CONECT   22   21   23   24   25
+CONECT   23    6    5    7    8
+CONECT   23    9   26   27   28
+CONECT   23   29   30   31   32
+CONECT   23   33   34   35   36
+CONECT   23   37   38   39   40
+CONECT   23   41   10   11   12
+CONECT   23   13   14   15   16
+CONECT   23   17   18   19   20
+CONECT   23   21   22   24   25
+CONECT   24    6    7    8    9
+CONECT   24   26   27   28   29
+CONECT   24   30   31   32   33
+CONECT   24   34   35   36   37
+CONECT   24   38   39   40   41
+CONECT   24   42   10   11   12
+CONECT   24   13   14   15   16
+CONECT   24   17   18   19   20
+CONECT   24   21   22   23   25
+CONECT   25    7    8    9   26
+CONECT   25   27   28   29   30
+CONECT   25   31   32   33   34
+CONECT   25   35   36   37   38
+CONECT   25   39   40   41   42
+CONECT   25   43   10   11   12
+CONECT   25   13   14   15   16
+CONECT   25   17   18   19   20
+CONECT   25   21   22   23   24
+CONECT   26    8    9   27   28
+CONECT   26   29   30   31   32
+CONECT   26   33   34   35   36
+CONECT   26   37   38   39   40
+CONECT   26   41   42   43   44
+CONECT   26   10   11   12   13
+CONECT   26   14   15   16   17
+CONECT   26   18   19   20   21
+CONECT   26   22   23   24   25
+CONECT   27    9   26   28   29
+CONECT   27   30   31   32   33
+CONECT   27   34   35   36   37
+CONECT   27   38   39   40   41
+CONECT   27   42   43   44   45
+CONECT   27   10   11   12   13
+CONECT   27   14   15   16   17
+CONECT   27   18   19   20   21
+CONECT   27   22   23   24   25
+CONECT   28   26   27   29   30
+CONECT   28   31   32   33   34
+CONECT   28   35   36   37   38
+CONECT   28   39   40   41   42
+CONECT   28   43   44   45   46
+CONECT   28   10   11   12   13
+CONECT   28   14   15   16   17
+CONECT   28   18   19   20   21
+CONECT   28   22   23   24   25
+CONECT   29   26   27   28   30
+CONECT   29   31   32   33   34
+CONECT   29   35   36   37   38
+CONECT   29   39   40   41   42
+CONECT   29   43   44   45   46
+CONECT   29   47   11   12   13
+CONECT   29   14   15   16   17
+CONECT   29   18   19   20   21
+CONECT   29   22   23   24   25
+CONECT   30   26   27   28   29
+CONECT   30   31   32   33   34
+CONECT   30   35   36   37   38
+CONECT   30   39   40   41   42
+CONECT   30   43   44   45   46
+CONECT   30   47   48   12   13
+CONECT   30   14   15   16   17
+CONECT   30   18   19   20   21
+CONECT   30   22   23   24   25
+CONECT   31   26   27   28   29
+CONECT   31   30   32   33   34
+CONECT   31   35   36   37   38
+CONECT   31   39   40   41   42
+CONECT   31   43   44   45   46
+CONECT   31   47   48   49   13
+CONECT   31   14   15   16   17
+CONECT   31   18   19   20   21
+CONECT   31   22   23   24   25
+CONECT   32   26   27   28   29
+CONECT   32   30   31   33   34
+CONECT   32   35   36   37   38
+CONECT   32   39   40   41   42
+CONECT   32   43   44   45   46
+CONECT   32   47   48   49   50
+CONECT   32   14   15   16   17
+CONECT   32   18   19   20   21
+CONECT   32   22   23   24   25
+CONECT   33   26   27   28   29
+CONECT   33   30   31   32   34
+CONECT   33   35   36   37   38
+CONECT   33   39   40   41   42
+CONECT   33   43   44   45   46
+CONECT   33   47   48   49   50
+CONECT   33   51   15   16   17
+CONECT   33   18   19   20   21
+CONECT   33   22   23   24   25
+CONECT   34   26   27   28   29
+CONECT   34   30   31   32   33
+CONECT   34   35   36   37   38
+CONECT   34   39   40   41   42
+CONECT   34   43   44   45   46
+CONECT   34   47   48   49   50
+CONECT   34   51   52   16   17
+CONECT   34   18   19   20   21
+CONECT   34   22   23   24   25
+CONECT   35   26   27   28   29
+CONECT   35   30   31   32   33
+CONECT   35   34   36   37   38
+CONECT   35   39   40   41   42
+CONECT   35   43   44   45   46
+CONECT   35   47   48   49   50
+CONECT   35   51   52   53   17
+CONECT   35   18   19   20   21
+CONECT   35   22   23   24   25
+CONECT   36   26   27   28   29
+CONECT   36   30   31   32   33
+CONECT   36   34   35   37   38
+CONECT   36   39   40   41   42
+CONECT   36   43   44   45   46
+CONECT   36   47   48   49   50
+CONECT   36   51   52   53   54
+CONECT   36   18   19   20   21
+CONECT   36   22   23   24   25
+CONECT   37   26   27   28   29
+CONECT   37   30   31   32   33
+CONECT   37   34   35   36   38
+CONECT   37   39   40   41   42
+CONECT   37   43   44   45   46
+CONECT   37   47   48   49   50
+CONECT   37   51   52   53   54
+CONECT   37   55   19   20   21
+CONECT   37   22   23   24   25
+CONECT   38   26   27   28   29
+CONECT   38   30   31   32   33
+CONECT   38   34   35   36   37
+CONECT   38   39   40   41   42
+CONECT   38   43   44   45   46
+CONECT   38   47   48   49   50
+CONECT   38   51   52   53   54
+CONECT   38   55   56   20   21
+CONECT   38   22   23   24   25
+CONECT   39   26   27   28   29
+CONECT   39   30   31   32   33
+CONECT   39   34   35   36   37
+CONECT   39   38   40   41   42
+CONECT   39   43   44   45   46
+CONECT   39   47   48   49   50
+CONECT   39   51   52   53   54
+CONECT   39   55   56   57   21
+CONECT   39   22   23   24   25
+CONECT   40   26   27   28   29
+CONECT   40   30   31   32   33
+CONECT   40   34   35   36   37
+CONECT   40   38   39   41   42
+CONECT   40   43   44   45   46
+CONECT   40   47   48   49   50
+CONECT   40   51   52   53   54
+CONECT   40   55   56   57   58
+CONECT   40   22   23   24   25
+CONECT   41   26   27   28   29
+CONECT   41   30   31   32   33
+CONECT   41   34   35   36   37
+CONECT   41   38   39   40   42
+CONECT   41   43   44   45   46
+CONECT   41   47   48   49   50
+CONECT   41   51   52   53   54
+CONECT   41   55   56   57   58
+CONECT   41   59   23   24   25
+CONECT   42   26   27   28   29
+CONECT   42   30   31   32   33
+CONECT   42   34   35   36   37
+CONECT   42   38   39   40   41
+CONECT   42   43   44   45   46
+CONECT   42   47   48   49   50
+CONECT   42   51   52   53   54
+CONECT   42   55   56   57   58
+CONECT   42   59   60   24   25
+CONECT   43   26   27   28   29
+CONECT   43   30   31   32   33
+CONECT   43   34   35   36   37
+CONECT   43   38   39   40   41
+CONECT   43   42   44   45   46
+CONECT   43   47   48   49   50
+CONECT   43   51   52   53   54
+CONECT   43   55   56   57   58
+CONECT   43   59   60   61   25
+CONECT   44   26   27   28   29
+CONECT   44   30   31   32   33
+CONECT   44   34   35   36   37
+CONECT   44   38   39   40   41
+CONECT   44   42   43   45   46
+CONECT   44   47   48   49   50
+CONECT   44   51   52   53   54
+CONECT   44   55   56   57   58
+CONECT   44   59   60   61   62
+CONECT   45   27   28   29   30
+CONECT   45   31   32   33   34
+CONECT   45   35   36   37   38
+CONECT   45   39   40   41   42
+CONECT   45   43   44   46   47
+CONECT   45   48   49   50   51
+CONECT   45   52   53   54   55
+CONECT   45   56   57   58   59
+CONECT   45   60   61   62   63
+CONECT   46   28   29   30   31
+CONECT   46   32   33   34   35
+CONECT   46   36   37   38   39
+CONECT   46   40   41   42   43
+CONECT   46   44   45   47   48
+CONECT   46   49   50   51   52
+CONECT   46   53   54   55   56
+CONECT   46   57   58   59   60
+CONECT   46   61   62   63   64
+CONECT   47   29   30   31   32
+CONECT   47   33   34   35   36
+CONECT   47   37   38   39   40
+CONECT   47   41   42   43   44
+CONECT   47   45   46   48   49
+CONECT   47   50   51   52   53
+CONECT   47   54   55   56   57
+CONECT   47   58   59   60   61
+CONECT   47   62   63   64   65
+CONECT   48   30   31   32   33
+CONECT   48   34   35   36   37
+CONECT   48   38   39   40   41
+CONECT   48   42   43   44   45
+CONECT   48   46   47   49   50
+CONECT   48   51   52   53   54
+CONECT   48   55   56   57   58
+CONECT   48   59   60   61   62
+CONECT   48   63   64   65   66
+CONECT   49   31   32   33   34
+CONECT   49   35   36   37   38
+CONECT   49   39   40   41   42
+CONECT   49   43   44   45   46
+CONECT   49   47   48   50   51
+CONECT   49   52   53   54   55
+CONECT   49   56   57   58   59
+CONECT   49   60   61   62   63
+CONECT   49   64   65   66   67
+CONECT   50   32   33   34   35
+CONECT   50   36   37   38   39
+CONECT   50   40   41   42   43
+CONECT   50   44   45   46   47
+CONECT   50   48   49   51   52
+CONECT   50   53   54   55   56
+CONECT   50   57   58   59   60
+CONECT   50   61   62   63   64
+CONECT   50   65   66   67   68
+CONECT   51   33   34   35   36
+CONECT   51   37   38   39   40
+CONECT   51   41   42   43   44
+CONECT   51   45   46   47   48
+CONECT   51   49   50   52   53
+CONECT   51   54   55   56   57
+CONECT   51   58   59   60   61
+CONECT   51   62   63   64   65
+CONECT   51   66   67   68   69
+CONECT   52   34   35   36   37
+CONECT   52   38   39   40   41
+CONECT   52   42   43   44   45
+CONECT   52   46   47   48   49
+CONECT   52   50   51   53   54
+CONECT   52   55   56   57   58
+CONECT   52   59   60   61   62
+CONECT   52   63   64   65   66
+CONECT   52   67   68   69   70
+CONECT   53   35   36   37   38
+CONECT   53   39   40   41   42
+CONECT   53   43   44   45   46
+CONECT   53   47   48   49   50
+CONECT   53   51   52   54   55
+CONECT   53   56   57   58   59
+CONECT   53   60   61   62   63
+CONECT   53   64   65   66   67
+CONECT   53   68   69   70   71
+CONECT   54   36   37   38   39
+CONECT   54   40   41   42   43
+CONECT   54   44   45   46   47
+CONECT   54   48   49   50   51
+CONECT   54   52   53   55   56
+CONECT   54   57   58   59   60
+CONECT   54   61   62   63   64
+CONECT   54   65   66   67   68
+CONECT   54   69   70   71   72
+CONECT   55   37   38   39   40
+CONECT   55   41   42   43   44
+CONECT   55   45   46   47   48
+CONECT   55   49   50   51   52
+CONECT   55   53   54   56   57
+CONECT   55   58   59   60   61
+CONECT   55   62   63   64   65
+CONECT   55   66   67   68   69
+CONECT   55   70   71   72   73
+CONECT   56   38   39   40   41
+CONECT   56   42   43   44   45
+CONECT   56   46   47   48   49
+CONECT   56   50   51   52   53
+CONECT   56   54   55   57   58
+CONECT   56   59   60   61   62
+CONECT   56   63   64   65   66
+CONECT   56   67   68   69   70
+CONECT   56   71   72   73   74
+CONECT   57   39   40   41   42
+CONECT   57   43   44   45   46
+CONECT   57   47   48   49   50
+CONECT   57   51   52   53   54
+CONECT   57   55   56   58   59
+CONECT   57   60   61   62   63
+CONECT   57   64   65   66   67
+CONECT   57   68   69   70   71
+CONECT   57   72   73   74   75
+CONECT   58   40   41   42   43
+CONECT   58   44   45   46   47
+CONECT   58   48   49   50   51
+CONECT   58   52   53   54   55
+CONECT   58   56   57   59   60
+CONECT   58   61   62   63   64
+CONECT   58   65   66   67   68
+CONECT   58   69   70   71   72
+CONECT   58   73   74   75   76
+CONECT   59   41   42   43   44
+CONECT   59   45   46   47   48
+CONECT   59   49   50   51   52
+CONECT   59   53   54   55   56
+CONECT   59   57   58   60   61
+CONECT   59   62   63   64   65
+CONECT   59   66   67   68   69
+CONECT   59   70   71   72   73
+CONECT   59   74   75   76   77
+CONECT   60   42   43   44   45
+CONECT   60   46   47   48   49
+CONECT   60   50   51   52   53
+CONECT   60   54   55   56   57
+CONECT   60   58   59   61   62
+CONECT   60   63   64   65   66
+CONECT   60   67   68   69   70
+CONECT   60   71   72   73   74
+CONECT   60   75   76   77   78
+CONECT   61   43   44   45   46
+CONECT   61   47   48   49   50
+CONECT   61   51   52   53   54
+CONECT   61   55   56   57   58
+CONECT   61   59   60   62   63
+CONECT   61   64   65   66   67
+CONECT   61   68   69   70   71
+CONECT   61   72   73   74   75
+CONECT   61   76   77   78   79
+CONECT   62   44   45   46   47
+CONECT   62   48   49   50   51
+CONECT   62   52   53   54   55
+CONECT   62   56   57   58   59
+CONECT   62   60   61   63   64
+CONECT   62   65   66   67   68
+CONECT   62   69   70   71   72
+CONECT   62   73   74   75   76
+CONECT   62   77   78   79   80
+CONECT   63   45   46   47   48
+CONECT   63   49   50   51   52
+CONECT   63   53   54   55   56
+CONECT   63   57   58   59   60
+CONECT   63   61   62   64   65
+CONECT   63   66   67   68   69
+CONECT   63   70   71   72   73
+CONECT   63   74   75   76   77
+CONECT   63   78   79   80
+CONECT   64   46   47   48   49
+CONECT   64   50   51   52   53
+CONECT   64   54   55   56   57
+CONECT   64   58   59   60   61
+CONECT   64   62   63   65   66
+CONECT   64   67   68   69   70
+CONECT   64   71   72   73   74
+CONECT   64   75   76   77   78
+CONECT   64   79   80
+CONECT   65   47   48   49   50
+CONECT   65   51   52   53   54
+CONECT   65   55   56   57   58
+CONECT   65   59   60   61   62
+CONECT   65   63   64   66   67
+CONECT   65   68   69   70   71
+CONECT   65   72   73   74   75
+CONECT   65   76   77   78   79
+CONECT   65   80
+CONECT   66   48   49   50   51
+CONECT   66   52   53   54   55
+CONECT   66   56   57   58   59
+CONECT   66   60   61   62   63
+CONECT   66   64   65   67   68
+CONECT   66   69   70   71   72
+CONECT   66   73   74   75   76
+CONECT   66   77   78   79   80
+CONECT   67   49   50   51   52
+CONECT   67   53   54   55   56
+CONECT   67   57   58   59   60
+CONECT   67   61   62   63   64
+CONECT   67   65   66   68   69
+CONECT   67   70   71   72   73
+CONECT   67   74   75   76   77
+CONECT   67   78   79   80
+CONECT   68   50   51   52   53
+CONECT   68   54   55   56   57
+CONECT   68   58   59   60   61
+CONECT   68   62   63   64   65
+CONECT   68   66   67   69   70
+CONECT   68   71   72   73   74
+CONECT   68   75   76   77   78
+CONECT   68   79   80
+CONECT   69   51   52   53   54
+CONECT   69   55   56   57   58
+CONECT   69   59   60   61   62
+CONECT   69   63   64   65   66
+CONECT   69   67   68   70   71
+CONECT   69   72   73   74   75
+CONECT   69   76   77   78   79
+CONECT   69   80
+CONECT   70   52   53   54   55
+CONECT   70   56   57   58   59
+CONECT   70   60   61   62   63
+CONECT   70   64   65   66   67
+CONECT   70   68   69   71   72
+CONECT   70   73   74   75   76
+CONECT   70   77   78   79   80
+CONECT   71   53   54   55   56
+CONECT   71   57   58   59   60
+CONECT   71   61   62   63   64
+CONECT   71   65   66   67   68
+CONECT   71   69   70   72   73
+CONECT   71   74   75   76   77
+CONECT   71   78   79   80
+CONECT   72   54   55   56   57
+CONECT   72   58   59   60   61
+CONECT   72   62   63   64   65
+CONECT   72   66   67   68   69
+CONECT   72   70   71   73   74
+CONECT   72   75   76   77   78
+CONECT   72   79   80
+CONECT   73   55   56   57   58
+CONECT   73   59   60   61   62
+CONECT   73   63   64   65   66
+CONECT   73   67   68   69   70
+CONECT   73   71   72   74   75
+CONECT   73   76   77   78   79
+CONECT   73   80
+CONECT   74   56   57   58   59
+CONECT   74   60   61   62   63
+CONECT   74   64   65   66   67
+CONECT   74   68   69   70   71
+CONECT   74   72   73   75   76
+CONECT   74   77   78   79   80
+CONECT   75   57   58   59   60
+CONECT   75   61   62   63   64
+CONECT   75   65   66   67   68
+CONECT   75   69   70   71   72
+CONECT   75   73   74   76   77
+CONECT   75   78   79   80
+CONECT   76   58   59   60   61
+CONECT   76   62   63   64   65
+CONECT   76   66   67   68   69
+CONECT   76   70   71   72   73
+CONECT   76   74   75   77   78
+CONECT   76   79   80
+CONECT   77   59   60   61   62
+CONECT   77   63   64   65   66
+CONECT   77   67   68   69   70
+CONECT   77   71   72   73   74
+CONECT   77   75   76   78   79
+CONECT   77   80
+CONECT   78   60   61   62   63
+CONECT   78   64   65   66   67
+CONECT   78   68   69   70   71
+CONECT   78   72   73   74   75
+CONECT   78   76   77   79   80
+CONECT   79   61   62   63   64
+CONECT   79   65   66   67   68
+CONECT   79   69   70   71   72
+CONECT   79   73   74   75   76
+CONECT   79   77   78   80
+CONECT   80   62   63   64   65
+CONECT   80   66   67   68   69
+CONECT   80   70   71   72   73
+CONECT   80   74   75   76   77
+CONECT   80   78   79
+END
