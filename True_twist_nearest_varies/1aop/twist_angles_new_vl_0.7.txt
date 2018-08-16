@@ -1,0 +1,82 @@
+Twist angle:: 52.536
+Twist angle:: 49.004
+Twist angle:: 50.321
+Twist angle:: 45.921
+Twist angle:: 41.195
+Twist angle:: 35.318
+Twist angle:: 20.105
+Twist angle:: 14.265
+Twist angle:: 4.594
+Twist angle:: 4.394
+Twist angle:: 5.123
+Twist angle:: 18.203
+Twist angle:: 31.711
+Twist angle:: 43.163
+Twist angle:: 48.311
+Twist angle:: 52.642
+Twist angle:: 52.737
+Twist angle:: 56.697
+Twist angle:: 56.699
+Twist angle:: 60.295
+Twist angle:: 60.378
+Twist angle:: 60.443
+Twist angle:: 60.534
+Twist angle:: 60.599
+min of sum of consecutive 4 angles :: 28.375
+Twist per angle :: 7.094
+................................................
+Twist angle:: 41.508
+Twist angle:: 39.241
+Twist angle:: 37.829
+Twist angle:: 35.822
+Twist angle:: 33.683
+Twist angle:: 31.667
+Twist angle:: 29.807
+Twist angle:: 27.866
+Twist angle:: 26.078
+Twist angle:: 24.533
+Twist angle:: 23.085
+Twist angle:: 21.687
+Twist angle:: 20.604
+Twist angle:: 19.669
+Twist angle:: 19.595
+Twist angle:: 19.245
+Twist angle:: 19.205
+Twist angle:: 19.502
+Twist angle:: 20.057
+Twist angle:: 20.708
+Twist angle:: 21.525
+Twist angle:: 22.509
+Twist angle:: 22.619
+Twist angle:: 22.767
+min of sum of consecutive 4 angles :: 77.548
+Twist per angle :: 19.387
+................................................
+Twist angle:: 10.616
+Twist angle:: 8.147
+Twist angle:: 5.62
+Twist angle:: 4.548
+Twist angle:: 3.24
+Twist angle:: 3.785
+Twist angle:: 5.659
+Twist angle:: 7.9
+Twist angle:: 10.467
+Twist angle:: 12.814
+min of sum of consecutive 4 angles :: 17.193
+Twist per angle :: 4.298
+................................................
+Twist angle:: 22.261
+Twist angle:: 20.246
+Twist angle:: 18.135
+Twist angle:: 16.077
+Twist angle:: 14.029
+Twist angle:: 11.892
+Twist angle:: 10.237
+Twist angle:: 8.874
+Twist angle:: 7.476
+Twist angle:: 6.851
+min of sum of consecutive 4 angles :: 33.438
+Twist per angle :: 8.359
+................................................
+longest pair val1, val2 :: 19.387,  7.094
+Avg MinTwist according to longest pair :: 13.2405
