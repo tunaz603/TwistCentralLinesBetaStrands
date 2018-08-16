@@ -1,0 +1,82 @@
+Twist angle:: 52.536
+Twist angle:: 49.004
+Twist angle:: 44.648
+Twist angle:: 39.739
+Twist angle:: 34.02
+Twist angle:: 27.096
+Twist angle:: 20.105
+Twist angle:: 14.265
+Twist angle:: 9.082
+Twist angle:: 5.745
+Twist angle:: 4.759
+Twist angle:: 2.215
+Twist angle:: 6.0
+Twist angle:: 12.114
+Twist angle:: 18.769
+Twist angle:: 25.624
+Twist angle:: 32.27
+Twist angle:: 38.234
+Twist angle:: 43.626
+Twist angle:: 48.857
+Twist angle:: 53.114
+Twist angle:: 57.025
+Twist angle:: 60.534
+Twist angle:: 89.148
+min of sum of consecutive 4 angles :: 18.719
+Twist per angle :: 4.68
+................................................
+Twist angle:: 41.508
+Twist angle:: 39.241
+Twist angle:: 37.225
+Twist angle:: 35.214
+Twist angle:: 33.06
+Twist angle:: 31.217
+Twist angle:: 29.34
+Twist angle:: 27.463
+Twist angle:: 25.864
+Twist angle:: 24.332
+Twist angle:: 23.012
+Twist angle:: 21.711
+Twist angle:: 20.695
+Twist angle:: 20.061
+Twist angle:: 19.595
+Twist angle:: 19.245
+Twist angle:: 19.205
+Twist angle:: 19.502
+Twist angle:: 20.057
+Twist angle:: 20.708
+Twist angle:: 21.525
+Twist angle:: 22.509
+Twist angle:: 16.049
+Twist angle:: 14.1
+min of sum of consecutive 4 angles :: 74.184
+Twist per angle :: 18.546
+................................................
+Twist angle:: 10.616
+Twist angle:: 8.147
+Twist angle:: 5.62
+Twist angle:: 3.38
+Twist angle:: 2.245
+Twist angle:: 3.641
+Twist angle:: 5.853
+Twist angle:: 8.363
+Twist angle:: 11.11
+Twist angle:: 13.358
+min of sum of consecutive 4 angles :: 14.887
+Twist per angle :: 3.722
+................................................
+Twist angle:: 22.261
+Twist angle:: 20.696
+Twist angle:: 19.247
+Twist angle:: 17.777
+Twist angle:: 16.51
+Twist angle:: 15.232
+Twist angle:: 14.287
+Twist angle:: 13.498
+Twist angle:: 12.933
+Twist angle:: 12.846
+min of sum of consecutive 4 angles :: 53.563
+Twist per angle :: 13.391
+................................................
+longest pair val1, val2 :: 18.546,  4.68
+Avg MinTwist according to longest pair :: 11.613
