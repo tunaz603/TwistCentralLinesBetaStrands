@@ -1,0 +1,447 @@
+number of beta sheet 22
+
+beta strand 1['SHEET ', '  1', '  A', ' 4', 'ALA', 'A', '  61 ', 'VAL', 'A', '  63', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  A', ' 4', 'LEU', 'A', '  36 ', 'GLY', 'A', '  41', ' ', '-1', ' N  ', 'THR', 'A', '  39 ', ' O  ', 'ALA', 'A', '  61', ' ']
+Twist angle:: 52.27
+smallest angles :: 52.27
+avg_twist_angle between strands  52.27
+................................................
+beta strand 1['SHEET ', '  2', '  A', ' 4', 'LEU', 'A', '  36 ', 'GLY', 'A', '  41', ' ', '-1', ' N  ', 'THR', 'A', '  39 ', ' O  ', 'ALA', 'A', '  61', ' ']
+beta strand 2['SHEET ', '  3', '  A', ' 4', 'HIS', 'A', ' 410 ', 'ASP', 'A', ' 417', ' ', '-1', ' N  ', 'VAL', 'A', ' 415 ', ' O  ', 'LEU', 'A', '  36', ' ']
+Twist angle:: 37.4
+Twist angle:: 19.581
+Twist angle:: 21.204
+Twist angle:: 18.577
+min of sum of consecutive 3 angles :: 59.362
+Twist per angle :: 19.787
+avg_twist_angle between strands  24.191
+................................................
+beta strand 1['SHEET ', '  3', '  A', ' 4', 'HIS', 'A', ' 410 ', 'ASP', 'A', ' 417', ' ', '-1', ' N  ', 'VAL', 'A', ' 415 ', ' O  ', 'LEU', 'A', '  36', ' ']
+beta strand 2['SHEET ', '  4', '  A', ' 4', 'ARG', 'A', ' 399 ', 'SER', 'A', ' 406', ' ', '-1', ' N  ', 'SER', 'A', ' 405 ', ' O  ', 'VAL', 'A', ' 412', ' ']
+Twist angle:: 22.815
+Twist angle:: 17.471
+Twist angle:: 1.186
+Twist angle:: 46.306
+Twist angle:: 41.597
+Twist angle:: 26.648
+min of sum of consecutive 4 angles :: 87.778
+Twist per angle :: 21.945
+avg_twist_angle between strands  26.004
+................................................
+beta strand 1['SHEET ', '  1', '  B', ' 3', 'VAL', 'A', '  88 ', 'GLY', 'A', '  92', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  B', ' 3', 'HIS', 'A', '  78 ', 'SER', 'A', '  83', ' ', '-1', ' N  ', 'CYS', 'A', '  81 ', ' O  ', 'TYR', 'A', '  89', ' ']
+Twist angle:: 21.804
+Twist angle:: 12.109
+Twist angle:: 10.798
+smallest angles :: 10.798
+avg_twist_angle between strands  14.904
+................................................
+beta strand 1['SHEET ', '  2', '  B', ' 3', 'HIS', 'A', '  78 ', 'SER', 'A', '  83', ' ', '-1', ' N  ', 'CYS', 'A', '  81 ', ' O  ', 'TYR', 'A', '  89', ' ']
+beta strand 2['SHEET ', '  3', '  B', ' 3', 'VAL', 'A', '  69 ', 'ALA', 'A', '  74', ' ', '-1', ' N  ', 'GLU', 'A', '  73 ', ' O  ', 'VAL', 'A', '  80', ' ']
+Twist angle:: 17.071
+Twist angle:: 8.977
+Twist angle:: 2.011
+Twist angle:: 55.934
+min of sum of consecutive 3 angles :: 28.059
+Twist per angle :: 9.353
+avg_twist_angle between strands  20.998
+................................................
+beta strand 1['SHEET ', '  1', '  C', ' 4', 'VAL', 'A', ' 166 ', 'VAL', 'A', ' 168', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  C', ' 4', 'VAL', 'A', ' 140 ', 'GLY', 'A', ' 144', ' ', '-1', ' N  ', 'LEU', 'A', ' 142 ', ' O  ', 'VAL', 'A', ' 166', ' ']
+Twist angle:: 43.497
+smallest angles :: 43.497
+avg_twist_angle between strands  43.497
+................................................
+beta strand 1['SHEET ', '  2', '  C', ' 4', 'VAL', 'A', ' 140 ', 'GLY', 'A', ' 144', ' ', '-1', ' N  ', 'LEU', 'A', ' 142 ', ' O  ', 'VAL', 'A', ' 166', ' ']
+beta strand 2['SHEET ', '  3', '  C', ' 4', 'HIS', 'A', ' 130 ', 'THR', 'A', ' 135', ' ', '-1', ' N  ', 'ALA', 'A', ' 133 ', ' O  ', 'PHE', 'A', ' 141', ' ']
+Twist angle:: 16.504
+Twist angle:: 13.956
+Twist angle:: 13.119
+smallest angles :: 13.119
+avg_twist_angle between strands  14.526
+................................................
+beta strand 1['SHEET ', '  3', '  C', ' 4', 'HIS', 'A', ' 130 ', 'THR', 'A', ' 135', ' ', '-1', ' N  ', 'ALA', 'A', ' 133 ', ' O  ', 'PHE', 'A', ' 141', ' ']
+beta strand 2['SHEET ', '  4', '  C', ' 4', 'VAL', 'A', ' 121 ', 'ALA', 'A', ' 126', ' ', '-1', ' N  ', 'SER', 'A', ' 125 ', ' O  ', 'ALA', 'A', ' 132', ' ']
+Twist angle:: 13.434
+Twist angle:: 16.703
+Twist angle:: 12.241
+Twist angle:: 60.278
+min of sum of consecutive 3 angles :: 42.378
+Twist per angle :: 14.126
+avg_twist_angle between strands  25.664
+................................................
+beta strand 1['SHEET ', '  1', '  D', ' 3', 'LEU', 'A', ' 193 ', 'GLY', 'A', ' 197', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  D', ' 3', 'HIS', 'A', ' 183 ', 'THR', 'A', ' 188', ' ', '-1', ' N  ', 'MET', 'A', ' 186 ', ' O  ', 'TYR', 'A', ' 194', ' ']
+Twist angle:: 22.119
+Twist angle:: 15.119
+Twist angle:: 15.178
+smallest angles :: 15.119
+avg_twist_angle between strands  17.472
+................................................
+beta strand 1['SHEET ', '  2', '  D', ' 3', 'HIS', 'A', ' 183 ', 'THR', 'A', ' 188', ' ', '-1', ' N  ', 'MET', 'A', ' 186 ', ' O  ', 'TYR', 'A', ' 194', ' ']
+beta strand 2['SHEET ', '  3', '  D', ' 3', 'VAL', 'A', ' 174 ', 'SER', 'A', ' 179', ' ', '-1', ' N  ', 'ALA', 'A', ' 178 ', ' O  ', 'VAL', 'A', ' 185', ' ']
+Twist angle:: 20.736
+Twist angle:: 18.166
+Twist angle:: 7.765
+Twist angle:: 57.549
+min of sum of consecutive 3 angles :: 46.667
+Twist per angle :: 15.556
+avg_twist_angle between strands  26.054
+................................................
+beta strand 1['SHEET ', '  1', '  E', ' 3', 'VAL', 'A', ' 261 ', 'GLY', 'A', ' 265', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  E', ' 3', 'PHE', 'A', ' 251 ', 'SER', 'A', ' 256', ' ', '-1', ' N  ', 'ALA', 'A', ' 254 ', ' O  ', 'TYR', 'A', ' 262', ' ']
+Twist angle:: 26.067
+Twist angle:: 20.979
+Twist angle:: 9.005
+smallest angles :: 9.005
+avg_twist_angle between strands  18.683
+................................................
+beta strand 1['SHEET ', '  2', '  E', ' 3', 'PHE', 'A', ' 251 ', 'SER', 'A', ' 256', ' ', '-1', ' N  ', 'ALA', 'A', ' 254 ', ' O  ', 'TYR', 'A', ' 262', ' ']
+beta strand 2['SHEET ', '  3', '  E', ' 3', 'PHE', 'A', ' 242 ', 'GLY', 'A', ' 248', ' ', '-1', ' N  ', 'GLY', 'A', ' 248 ', ' O  ', 'PHE', 'A', ' 251', ' ']
+Twist angle:: 33.376
+Twist angle:: 13.557
+Twist angle:: 10.381
+Twist angle:: 12.833
+min of sum of consecutive 3 angles :: 36.771
+Twist per angle :: 12.257
+avg_twist_angle between strands  17.537
+................................................
+beta strand 1['SHEET ', '  1', '  F', ' 3', 'ALA', 'A', ' 315 ', 'GLY', 'A', ' 319', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  F', ' 3', 'HIS', 'A', ' 305 ', 'ASP', 'A', ' 310', ' ', '-1', ' N  ', 'CYS', 'A', ' 308 ', ' O  ', 'TYR', 'A', ' 316', ' ']
+Twist angle:: 33.747
+Twist angle:: 22.904
+Twist angle:: 10.488
+smallest angles :: 10.488
+avg_twist_angle between strands  22.379
+................................................
+beta strand 1['SHEET ', '  2', '  F', ' 3', 'HIS', 'A', ' 305 ', 'ASP', 'A', ' 310', ' ', '-1', ' N  ', 'CYS', 'A', ' 308 ', ' O  ', 'TYR', 'A', ' 316', ' ']
+beta strand 2['SHEET ', '  3', '  F', ' 3', 'TRP', 'A', ' 296 ', 'GLY', 'A', ' 301', ' ', '-1', ' N  ', 'SER', 'A', ' 300 ', ' O  ', 'VAL', 'A', ' 307', ' ']
+Twist angle:: 27.951
+Twist angle:: 20.138
+Twist angle:: 2.74
+Twist angle:: 51.24
+min of sum of consecutive 3 angles :: 50.829
+Twist per angle :: 16.943
+avg_twist_angle between strands  25.517
+................................................
+beta strand 1['SHEET ', '  1', '  G', ' 3', 'VAL', 'A', ' 366 ', 'GLY', 'A', ' 370', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  G', ' 3', 'VAL', 'A', ' 356 ', 'THR', 'A', ' 361', ' ', '-1', ' N  ', 'ALA', 'A', ' 359 ', ' O  ', 'PHE', 'A', ' 367', ' ']
+Twist angle:: 9.895
+Twist angle:: 19.961
+Twist angle:: 20.626
+smallest angles :: 9.895
+avg_twist_angle between strands  16.827
+................................................
+beta strand 1['SHEET ', '  2', '  G', ' 3', 'VAL', 'A', ' 356 ', 'THR', 'A', ' 361', ' ', '-1', ' N  ', 'ALA', 'A', ' 359 ', ' O  ', 'PHE', 'A', ' 367', ' ']
+beta strand 2['SHEET ', '  3', '  G', ' 3', 'VAL', 'A', ' 347 ', 'CYS', 'A', ' 352', ' ', '-1', ' N  ', 'ALA', 'A', ' 351 ', ' O  ', 'TYR', 'A', ' 358', ' ']
+Twist angle:: 11.128
+Twist angle:: 11.351
+Twist angle:: 14.941
+Twist angle:: 58.751
+min of sum of consecutive 3 angles :: 37.421
+Twist per angle :: 12.474
+avg_twist_angle between strands  24.043
+................................................
+beta strand 1['SHEET ', '  1', '  H', ' 2', 'PHE', 'A', ' 146 ', 'ASP', 'A', ' 148', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  H', ' 2', 'GLY', 'A', ' 151 ', 'GLY', 'A', ' 154', ' ', '-1', ' N  ', 'GLY', 'A', ' 154 ', ' O  ', 'PHE', 'A', ' 146', ' ']
+Twist angle:: 55.059
+smallest angles :: 55.059
+avg_twist_angle between strands  55.059
+................................................
+beta strand 1['SHEET ', '  1', '  I', ' 4', 'ALA', 'B', '  61 ', 'VAL', 'B', '  63', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  I', ' 4', 'LEU', 'B', '  36 ', 'GLY', 'B', '  41', ' ', '-1', ' N  ', 'THR', 'B', '  39 ', ' O  ', 'ALA', 'B', '  61', ' ']
+Twist angle:: 52.462
+smallest angles :: 52.462
+avg_twist_angle between strands  52.462
+................................................
+beta strand 1['SHEET ', '  2', '  I', ' 4', 'LEU', 'B', '  36 ', 'GLY', 'B', '  41', ' ', '-1', ' N  ', 'THR', 'B', '  39 ', ' O  ', 'ALA', 'B', '  61', ' ']
+beta strand 2['SHEET ', '  3', '  I', ' 4', 'HIS', 'B', ' 410 ', 'ASP', 'B', ' 417', ' ', '-1', ' N  ', 'VAL', 'B', ' 415 ', ' O  ', 'LEU', 'B', '  36', ' ']
+Twist angle:: 37.336
+Twist angle:: 21.324
+Twist angle:: 21.48
+Twist angle:: 17.806
+min of sum of consecutive 3 angles :: 60.611
+Twist per angle :: 20.204
+avg_twist_angle between strands  24.487
+................................................
+beta strand 1['SHEET ', '  3', '  I', ' 4', 'HIS', 'B', ' 410 ', 'ASP', 'B', ' 417', ' ', '-1', ' N  ', 'VAL', 'B', ' 415 ', ' O  ', 'LEU', 'B', '  36', ' ']
+beta strand 2['SHEET ', '  4', '  I', ' 4', 'ARG', 'B', ' 399 ', 'SER', 'B', ' 406', ' ', '-1', ' N  ', 'SER', 'B', ' 405 ', ' O  ', 'VAL', 'B', ' 412', ' ']
+Twist angle:: 21.61
+Twist angle:: 17.252
+Twist angle:: 4.556
+Twist angle:: 46.243
+Twist angle:: 42.596
+Twist angle:: 21.934
+min of sum of consecutive 4 angles :: 89.662
+Twist per angle :: 22.416
+avg_twist_angle between strands  25.699
+................................................
+beta strand 1['SHEET ', '  1', '  J', ' 4', 'GLY', 'B', ' 113 ', 'VAL', 'B', ' 115', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  J', ' 4', 'VAL', 'B', '  88 ', 'GLY', 'B', '  92', ' ', '-1', ' N  ', 'SER', 'B', '  90 ', ' O  ', 'GLY', 'B', ' 113', ' ']
+Twist angle:: 52.768
+smallest angles :: 52.768
+avg_twist_angle between strands  52.768
+................................................
+beta strand 1['SHEET ', '  2', '  J', ' 4', 'VAL', 'B', '  88 ', 'GLY', 'B', '  92', ' ', '-1', ' N  ', 'SER', 'B', '  90 ', ' O  ', 'GLY', 'B', ' 113', ' ']
+beta strand 2['SHEET ', '  3', '  J', ' 4', 'HIS', 'B', '  78 ', 'SER', 'B', '  83', ' ', '-1', ' N  ', 'CYS', 'B', '  81 ', ' O  ', 'TYR', 'B', '  89', ' ']
+Twist angle:: 23.664
+Twist angle:: 14.848
+Twist angle:: 10.498
+smallest angles :: 10.498
+avg_twist_angle between strands  16.337
+................................................
+beta strand 1['SHEET ', '  3', '  J', ' 4', 'HIS', 'B', '  78 ', 'SER', 'B', '  83', ' ', '-1', ' N  ', 'CYS', 'B', '  81 ', ' O  ', 'TYR', 'B', '  89', ' ']
+beta strand 2['SHEET ', '  4', '  J', ' 4', 'VAL', 'B', '  69 ', 'ALA', 'B', '  74', ' ', '-1', ' N  ', 'GLU', 'B', '  73 ', ' O  ', 'VAL', 'B', '  80', ' ']
+Twist angle:: 18.466
+Twist angle:: 9.083
+Twist angle:: 1.311
+Twist angle:: 53.677
+min of sum of consecutive 3 angles :: 28.861
+Twist per angle :: 9.62
+avg_twist_angle between strands  20.634
+................................................
+beta strand 1['SHEET ', '  1', '  K', ' 3', 'VAL', 'B', ' 140 ', 'GLY', 'B', ' 144', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  K', ' 3', 'HIS', 'B', ' 130 ', 'THR', 'B', ' 135', ' ', '-1', ' N  ', 'ALA', 'B', ' 133 ', ' O  ', 'PHE', 'B', ' 141', ' ']
+Twist angle:: 16.123
+Twist angle:: 15.935
+Twist angle:: 13.332
+smallest angles :: 13.332
+avg_twist_angle between strands  15.13
+................................................
+beta strand 1['SHEET ', '  2', '  K', ' 3', 'HIS', 'B', ' 130 ', 'THR', 'B', ' 135', ' ', '-1', ' N  ', 'ALA', 'B', ' 133 ', ' O  ', 'PHE', 'B', ' 141', ' ']
+beta strand 2['SHEET ', '  3', '  K', ' 3', 'VAL', 'B', ' 121 ', 'ALA', 'B', ' 126', ' ', '-1', ' N  ', 'SER', 'B', ' 125 ', ' O  ', 'ALA', 'B', ' 132', ' ']
+Twist angle:: 12.711
+Twist angle:: 15.151
+Twist angle:: 12.671
+Twist angle:: 57.786
+min of sum of consecutive 3 angles :: 40.533
+Twist per angle :: 13.511
+avg_twist_angle between strands  24.58
+................................................
+beta strand 1['SHEET ', '  1', '  L', ' 3', 'LEU', 'B', ' 193 ', 'GLY', 'B', ' 197', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  L', ' 3', 'HIS', 'B', ' 183 ', 'THR', 'B', ' 188', ' ', '-1', ' N  ', 'MET', 'B', ' 186 ', ' O  ', 'TYR', 'B', ' 194', ' ']
+Twist angle:: 22.654
+Twist angle:: 15.989
+Twist angle:: 14.984
+smallest angles :: 14.984
+avg_twist_angle between strands  17.876
+................................................
+beta strand 1['SHEET ', '  2', '  L', ' 3', 'HIS', 'B', ' 183 ', 'THR', 'B', ' 188', ' ', '-1', ' N  ', 'MET', 'B', ' 186 ', ' O  ', 'TYR', 'B', ' 194', ' ']
+beta strand 2['SHEET ', '  3', '  L', ' 3', 'VAL', 'B', ' 174 ', 'SER', 'B', ' 179', ' ', '-1', ' N  ', 'ALA', 'B', ' 178 ', ' O  ', 'VAL', 'B', ' 185', ' ']
+Twist angle:: 21.624
+Twist angle:: 18.386
+Twist angle:: 4.484
+Twist angle:: 57.356
+min of sum of consecutive 3 angles :: 44.495
+Twist per angle :: 14.832
+avg_twist_angle between strands  25.463
+................................................
+beta strand 1['SHEET ', '  1', '  M', ' 3', 'VAL', 'B', ' 261 ', 'GLY', 'B', ' 265', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  M', ' 3', 'PHE', 'B', ' 251 ', 'SER', 'B', ' 256', ' ', '-1', ' N  ', 'ALA', 'B', ' 254 ', ' O  ', 'TYR', 'B', ' 262', ' ']
+Twist angle:: 27.125
+Twist angle:: 24.503
+Twist angle:: 9.197
+smallest angles :: 9.197
+avg_twist_angle between strands  20.275
+................................................
+beta strand 1['SHEET ', '  2', '  M', ' 3', 'PHE', 'B', ' 251 ', 'SER', 'B', ' 256', ' ', '-1', ' N  ', 'ALA', 'B', ' 254 ', ' O  ', 'TYR', 'B', ' 262', ' ']
+beta strand 2['SHEET ', '  3', '  M', ' 3', 'PHE', 'B', ' 242 ', 'GLY', 'B', ' 248', ' ', '-1', ' N  ', 'GLY', 'B', ' 248 ', ' O  ', 'PHE', 'B', ' 251', ' ']
+Twist angle:: 32.334
+Twist angle:: 9.486
+Twist angle:: 8.951
+Twist angle:: 11.526
+min of sum of consecutive 3 angles :: 29.963
+Twist per angle :: 9.988
+avg_twist_angle between strands  15.574
+................................................
+beta strand 1['SHEET ', '  1', '  N', ' 3', 'ALA', 'B', ' 315 ', 'GLY', 'B', ' 319', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  N', ' 3', 'HIS', 'B', ' 305 ', 'ASP', 'B', ' 310', ' ', '-1', ' N  ', 'CYS', 'B', ' 308 ', ' O  ', 'TYR', 'B', ' 316', ' ']
+Twist angle:: 31.098
+Twist angle:: 24.277
+Twist angle:: 9.438
+smallest angles :: 9.438
+avg_twist_angle between strands  21.604
+................................................
+beta strand 1['SHEET ', '  2', '  N', ' 3', 'HIS', 'B', ' 305 ', 'ASP', 'B', ' 310', ' ', '-1', ' N  ', 'CYS', 'B', ' 308 ', ' O  ', 'TYR', 'B', ' 316', ' ']
+beta strand 2['SHEET ', '  3', '  N', ' 3', 'TRP', 'B', ' 296 ', 'GLY', 'B', ' 301', ' ', '-1', ' N  ', 'SER', 'B', ' 300 ', ' O  ', 'VAL', 'B', ' 307', ' ']
+Twist angle:: 29.082
+Twist angle:: 16.992
+Twist angle:: 0.844
+Twist angle:: 50.523
+min of sum of consecutive 3 angles :: 46.918
+Twist per angle :: 15.639
+avg_twist_angle between strands  24.36
+................................................
+beta strand 1['SHEET ', '  1', '  O', ' 3', 'VAL', 'B', ' 366 ', 'GLY', 'B', ' 370', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  O', ' 3', 'VAL', 'B', ' 356 ', 'THR', 'B', ' 361', ' ', '-1', ' N  ', 'ALA', 'B', ' 359 ', ' O  ', 'PHE', 'B', ' 367', ' ']
+Twist angle:: 8.102
+Twist angle:: 18.188
+Twist angle:: 21.453
+smallest angles :: 8.102
+avg_twist_angle between strands  15.914
+................................................
+beta strand 1['SHEET ', '  2', '  O', ' 3', 'VAL', 'B', ' 356 ', 'THR', 'B', ' 361', ' ', '-1', ' N  ', 'ALA', 'B', ' 359 ', ' O  ', 'PHE', 'B', ' 367', ' ']
+beta strand 2['SHEET ', '  3', '  O', ' 3', 'VAL', 'B', ' 347 ', 'CYS', 'B', ' 352', ' ', '-1', ' N  ', 'ALA', 'B', ' 351 ', ' O  ', 'TYR', 'B', ' 358', ' ']
+Twist angle:: 10.411
+Twist angle:: 11.018
+Twist angle:: 17.536
+Twist angle:: 59.141
+min of sum of consecutive 3 angles :: 38.964
+Twist per angle :: 12.988
+avg_twist_angle between strands  24.526
+................................................
+beta strand 1['SHEET ', '  1', '  P', ' 3', 'LEU', 'C', '  36 ', 'GLY', 'C', '  41', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  P', ' 3', 'HIS', 'C', ' 410 ', 'ASP', 'C', ' 417', ' ', '-1', ' N  ', 'VAL', 'C', ' 415 ', ' O  ', 'LEU', 'C', '  36', ' ']
+Twist angle:: 36.343
+Twist angle:: 21.326
+Twist angle:: 20.798
+Twist angle:: 18.022
+min of sum of consecutive 3 angles :: 60.147
+Twist per angle :: 20.049
+avg_twist_angle between strands  24.123
+................................................
+beta strand 1['SHEET ', '  2', '  P', ' 3', 'HIS', 'C', ' 410 ', 'ASP', 'C', ' 417', ' ', '-1', ' N  ', 'VAL', 'C', ' 415 ', ' O  ', 'LEU', 'C', '  36', ' ']
+beta strand 2['SHEET ', '  3', '  P', ' 3', 'ARG', 'C', ' 399 ', 'SER', 'C', ' 406', ' ', '-1', ' N  ', 'SER', 'C', ' 405 ', ' O  ', 'VAL', 'C', ' 412', ' ']
+Twist angle:: 21.033
+Twist angle:: 16.517
+Twist angle:: 4.865
+Twist angle:: 48.029
+Twist angle:: 41.153
+Twist angle:: 23.849
+min of sum of consecutive 4 angles :: 90.444
+Twist per angle :: 22.611
+avg_twist_angle between strands  25.908
+................................................
+beta strand 1['SHEET ', '  1', '  Q', ' 3', 'VAL', 'C', '  88 ', 'GLY', 'C', '  92', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  Q', ' 3', 'HIS', 'C', '  78 ', 'SER', 'C', '  83', ' ', '-1', ' N  ', 'CYS', 'C', '  81 ', ' O  ', 'TYR', 'C', '  89', ' ']
+Twist angle:: 22.963
+Twist angle:: 15.109
+Twist angle:: 8.037
+smallest angles :: 8.037
+avg_twist_angle between strands  15.369
+................................................
+beta strand 1['SHEET ', '  2', '  Q', ' 3', 'HIS', 'C', '  78 ', 'SER', 'C', '  83', ' ', '-1', ' N  ', 'CYS', 'C', '  81 ', ' O  ', 'TYR', 'C', '  89', ' ']
+beta strand 2['SHEET ', '  3', '  Q', ' 3', 'VAL', 'C', '  69 ', 'ALA', 'C', '  74', ' ', '-1', ' N  ', 'GLU', 'C', '  73 ', ' O  ', 'VAL', 'C', '  80', ' ']
+Twist angle:: 19.71
+Twist angle:: 8.092
+Twist angle:: 2.854
+Twist angle:: 55.046
+min of sum of consecutive 3 angles :: 30.656
+Twist per angle :: 10.219
+avg_twist_angle between strands  21.426
+................................................
+beta strand 1['SHEET ', '  1', '  R', ' 3', 'VAL', 'C', ' 140 ', 'GLY', 'C', ' 144', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  R', ' 3', 'HIS', 'C', ' 130 ', 'THR', 'C', ' 135', ' ', '-1', ' N  ', 'ALA', 'C', ' 133 ', ' O  ', 'PHE', 'C', ' 141', ' ']
+Twist angle:: 15.778
+Twist angle:: 15.823
+Twist angle:: 12.216
+smallest angles :: 12.216
+avg_twist_angle between strands  14.606
+................................................
+beta strand 1['SHEET ', '  2', '  R', ' 3', 'HIS', 'C', ' 130 ', 'THR', 'C', ' 135', ' ', '-1', ' N  ', 'ALA', 'C', ' 133 ', ' O  ', 'PHE', 'C', ' 141', ' ']
+beta strand 2['SHEET ', '  3', '  R', ' 3', 'VAL', 'C', ' 121 ', 'ALA', 'C', ' 126', ' ', '-1', ' N  ', 'SER', 'C', ' 125 ', ' O  ', 'ALA', 'C', ' 132', ' ']
+Twist angle:: 13.596
+Twist angle:: 17.025
+Twist angle:: 13.225
+Twist angle:: 58.463
+min of sum of consecutive 3 angles :: 43.846
+Twist per angle :: 14.615
+avg_twist_angle between strands  25.577
+................................................
+beta strand 1['SHEET ', '  1', '  S', ' 3', 'LEU', 'C', ' 193 ', 'GLY', 'C', ' 197', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  S', ' 3', 'HIS', 'C', ' 183 ', 'THR', 'C', ' 188', ' ', '-1', ' N  ', 'MET', 'C', ' 186 ', ' O  ', 'TYR', 'C', ' 194', ' ']
+Twist angle:: 21.531
+Twist angle:: 16.416
+Twist angle:: 14.042
+smallest angles :: 14.042
+avg_twist_angle between strands  17.329
+................................................
+beta strand 1['SHEET ', '  2', '  S', ' 3', 'HIS', 'C', ' 183 ', 'THR', 'C', ' 188', ' ', '-1', ' N  ', 'MET', 'C', ' 186 ', ' O  ', 'TYR', 'C', ' 194', ' ']
+beta strand 2['SHEET ', '  3', '  S', ' 3', 'VAL', 'C', ' 174 ', 'SER', 'C', ' 179', ' ', '-1', ' N  ', 'ALA', 'C', ' 178 ', ' O  ', 'VAL', 'C', ' 185', ' ']
+Twist angle:: 21.004
+Twist angle:: 16.894
+Twist angle:: 7.562
+Twist angle:: 59.482
+min of sum of consecutive 3 angles :: 45.461
+Twist per angle :: 15.154
+avg_twist_angle between strands  26.236
+................................................
+beta strand 1['SHEET ', '  1', '  T', ' 3', 'VAL', 'C', ' 261 ', 'GLY', 'C', ' 265', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  T', ' 3', 'PHE', 'C', ' 251 ', 'SER', 'C', ' 256', ' ', '-1', ' N  ', 'ALA', 'C', ' 254 ', ' O  ', 'TYR', 'C', ' 262', ' ']
+Twist angle:: 25.512
+Twist angle:: 22.006
+Twist angle:: 10.931
+smallest angles :: 10.931
+avg_twist_angle between strands  19.483
+................................................
+beta strand 1['SHEET ', '  2', '  T', ' 3', 'PHE', 'C', ' 251 ', 'SER', 'C', ' 256', ' ', '-1', ' N  ', 'ALA', 'C', ' 254 ', ' O  ', 'TYR', 'C', ' 262', ' ']
+beta strand 2['SHEET ', '  3', '  T', ' 3', 'PHE', 'C', ' 242 ', 'GLY', 'C', ' 248', ' ', '-1', ' N  ', 'GLY', 'C', ' 248 ', ' O  ', 'PHE', 'C', ' 251', ' ']
+Twist angle:: 32.045
+Twist angle:: 11.613
+Twist angle:: 10.12
+Twist angle:: 12.383
+min of sum of consecutive 3 angles :: 34.116
+Twist per angle :: 11.372
+avg_twist_angle between strands  16.54
+................................................
+beta strand 1['SHEET ', '  1', '  U', ' 3', 'ALA', 'C', ' 315 ', 'GLY', 'C', ' 319', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  U', ' 3', 'HIS', 'C', ' 305 ', 'ASP', 'C', ' 310', ' ', '-1', ' N  ', 'CYS', 'C', ' 308 ', ' O  ', 'TYR', 'C', ' 316', ' ']
+Twist angle:: 31.982
+Twist angle:: 21.602
+Twist angle:: 11.844
+smallest angles :: 11.844
+avg_twist_angle between strands  21.81
+................................................
+beta strand 1['SHEET ', '  2', '  U', ' 3', 'HIS', 'C', ' 305 ', 'ASP', 'C', ' 310', ' ', '-1', ' N  ', 'CYS', 'C', ' 308 ', ' O  ', 'TYR', 'C', ' 316', ' ']
+beta strand 2['SHEET ', '  3', '  U', ' 3', 'TRP', 'C', ' 296 ', 'GLY', 'C', ' 301', ' ', '-1', ' N  ', 'SER', 'C', ' 300 ', ' O  ', 'VAL', 'C', ' 307', ' ']
+Twist angle:: 27.595
+Twist angle:: 17.361
+Twist angle:: 2.009
+Twist angle:: 49.137
+min of sum of consecutive 3 angles :: 46.965
+Twist per angle :: 15.655
+avg_twist_angle between strands  24.025
+................................................
+beta strand 1['SHEET ', '  1', '  V', ' 3', 'VAL', 'C', ' 366 ', 'GLY', 'C', ' 370', ' ', ' 0', '    ', '   ', ' ', '     ', '    ', '   ', ' ', '    ', ' ']
+beta strand 2['SHEET ', '  2', '  V', ' 3', 'VAL', 'C', ' 356 ', 'THR', 'C', ' 361', ' ', '-1', ' N  ', 'ALA', 'C', ' 359 ', ' O  ', 'PHE', 'C', ' 367', ' ']
+Twist angle:: 8.715
+Twist angle:: 20.363
+Twist angle:: 20.462
+smallest angles :: 8.715
+avg_twist_angle between strands  16.513
+................................................
+beta strand 1['SHEET ', '  2', '  V', ' 3', 'VAL', 'C', ' 356 ', 'THR', 'C', ' 361', ' ', '-1', ' N  ', 'ALA', 'C', ' 359 ', ' O  ', 'PHE', 'C', ' 367', ' ']
+beta strand 2['SHEET ', '  3', '  V', ' 3', 'VAL', 'C', ' 347 ', 'GLY', 'C', ' 353', ' ', '-1', ' N  ', 'GLY', 'C', ' 353 ', ' O  ', 'VAL', 'C', ' 356', ' ']
+Twist angle:: 25.95
+Twist angle:: 10.797
+Twist angle:: 25.444
+Twist angle:: 7.368
+min of sum of consecutive 3 angles :: 43.609
+Twist per angle :: 14.536
+avg_twist_angle between strands  17.39
+................................................
+
+
+avg_twist angle in all beta sheets 34.155
+avg_twist angle in all beta sheets 17.951
+avg_twist angle in all beta sheets 27.896
+avg_twist angle in all beta sheets 21.763
+avg_twist angle in all beta sheets 18.11
+avg_twist angle in all beta sheets 23.948
+avg_twist angle in all beta sheets 20.435
+avg_twist angle in all beta sheets 55.059
+avg_twist angle in all beta sheets 34.216
+avg_twist angle in all beta sheets 29.913
+avg_twist angle in all beta sheets 19.855
+avg_twist angle in all beta sheets 21.669
+avg_twist angle in all beta sheets 17.924
+avg_twist angle in all beta sheets 22.982
+avg_twist angle in all beta sheets 20.22
+avg_twist angle in all beta sheets 25.015
+avg_twist angle in all beta sheets 18.398
+avg_twist angle in all beta sheets 20.091
+avg_twist angle in all beta sheets 21.782
+avg_twist angle in all beta sheets 18.012
+avg_twist angle in all beta sheets 22.918
+avg_twist angle in all beta sheets 16.951
+................................................
