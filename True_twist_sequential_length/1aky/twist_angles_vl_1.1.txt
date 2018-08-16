@@ -1,0 +1,43 @@
+Twist angle:: 22.591
+Twist angle:: 23.016
+Twist angle:: 23.966
+Twist angle:: 25.2
+Twist angle:: 26.783
+Twist angle:: 28.63
+Twist angle:: 30.601
+Twist angle:: 32.689
+min of sum of consecutive 4 angles :: 94.773
+Twist per angle :: 23.693
+................................................
+Twist angle:: 19.851
+Twist angle:: 19.851
+Twist angle:: 19.882
+Twist angle:: 19.939
+Twist angle:: 19.932
+Twist angle:: 20.014
+Twist angle:: 20.141
+Twist angle:: 20.194
+Twist angle:: 20.295
+min of sum of consecutive 4 angles :: 79.524
+Twist per angle :: 19.881
+................................................
+Twist angle:: 22.696
+Twist angle:: 21.375
+Twist angle:: 20.623
+Twist angle:: 20.626
+Twist angle:: 21.268
+Twist angle:: 22.578
+min of sum of consecutive 4 angles :: 83.892
+Twist per angle :: 20.973
+................................................
+Twist angle:: 16.061
+Twist angle:: 15.441
+Twist angle:: 15.491
+Twist angle:: 16.254
+Twist angle:: 17.721
+Twist angle:: 19.37
+min of sum of consecutive 4 angles :: 63.247
+Twist per angle :: 15.812
+................................................
+longest pair val1, val2 :: 19.881,  23.693
+Avg MinTwist according to longest pair :: 21.787
